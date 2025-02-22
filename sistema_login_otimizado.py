@@ -75,8 +75,6 @@ def login_conta():
         print('Email não encontrado')
         login_conta()
 
-
-
 cadastro_conta()
 login_conta()
 
